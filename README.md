@@ -1,2 +1,2 @@
 # other_competition
- Mini game
+Mini game
